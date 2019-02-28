@@ -1,4 +1,7 @@
-# ml
+# Cricket Challenge
+
+### You will find the code in cricket_challenge.ipynb
+
 
 ### Data Source and DataLoad
     1. Read the data from https://cricsheet.org/ for which downloaded as odis which is also commited in git repo
